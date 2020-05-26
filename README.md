@@ -1,1 +1,1 @@
-# technological_practice
+# preddiplomnaya_practice
